@@ -11,7 +11,7 @@
 
 ### General Instructions
 
-- It works like a normal coffee machine where you will have to enter the coffee you want with
+- It works like a normal coffee machine where you will have to enter the coffee you want.
 
 #### Enjoy 😄
 
